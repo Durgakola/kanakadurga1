@@ -12,17 +12,18 @@ public class AccountServiceTest {
         user.lastName="durga";
         user.firstName="kanakadurga";
         user.dob="24-2-2000";
-
-        user.address=userAddress;
         user.mobileNo="9391976191";
-        user.aadharNo="2345678";
-        user.pan="456789234";
+        user.aadharNo="123 342 543";
+        user.pan="ABC123456h";
+        user.address=userAddress;
+
 
 
         AccountService accountService=new AccountService();
         PassBook passBook=accountService.createAccount(user);
+
         System.out.println(passBook.accountNumber);
-        System.out.println(passBook.accountHolderName);
+//        System.out.println(passBook.accountHolderName);
 
     }
 }
