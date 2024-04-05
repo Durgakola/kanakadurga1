@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d962b072-048c-47fb-b54e-93bfa83711ee" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/CardServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/CreditCardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/ProductDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/ShoppingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shopping/UserSpecification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingdemo/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingdemo/ProductSpecification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingdemo/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingdemo/ShoppingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingdemo/ShoppingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountcreation/AccountServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accountcreation/AccountServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/ShoppingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/ShoppingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712206466335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello">
+      <created>1712318327184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712318327184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hello">
+      <created>1712318502160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712318502160</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
