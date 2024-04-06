@@ -11,6 +11,7 @@ public class ProductDetails {
 
 
     public UserSpecification getUserSpecification() {
+
         return userSpecification;
     }
 
