@@ -7,7 +7,6 @@ public class Shop {
     List<ProductDetails> productDetails;
 
     public Shop() {
-
         productDetails= new ArrayList<>();
     }
 

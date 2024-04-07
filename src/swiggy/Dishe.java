@@ -1,6 +1,6 @@
-package restarent;
+package swiggy;
 
-public class Dishes {
+public class Dishe {
     public String name;
     public int price;
 

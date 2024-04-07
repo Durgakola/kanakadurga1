@@ -1,4 +1,4 @@
-package restarent;
+package swiggy;
 
 public class Address {
     public String flatNo;

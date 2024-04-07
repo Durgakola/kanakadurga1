@@ -1,8 +1,8 @@
-package restarent;
+package swiggy;
 
-public class RestarentDetails {
+public class RestaurantDetails {
     public String name;
-    public Dishes deeshes;
+    public Dishe dishe;
     public int rating;
 
     public Address address;
@@ -11,7 +11,7 @@ public class RestarentDetails {
     public String toString() {
         return "Restarent{" +
                 "name='" + name + '\'' +
-                ", item=" + deeshes +
+                ", item=" + dishe +
                 ", rating=" + rating +
                 ", address=" + address +
                 '}';

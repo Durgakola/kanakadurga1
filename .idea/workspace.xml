@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d962b072-048c-47fb-b54e-93bfa83711ee" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/restarent/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restarent/Dishes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restarent/Restarent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restarent/RestarentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restarent/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/restarent/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/Service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shopping/ProductDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/ProductDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/Dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Dishe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/Restarent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/RestarentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/RestaurantDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/RestaurantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restarent/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.restarent.Test">
+  <component name="RunManager" selected="Application.swiggy.Test">
     <configuration name="AccountServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="accountcreation.AccountServiceTest" />
       <module name="kanakadurga1" />
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="restarent.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="restarent.Test" />
+    <configuration name="swiggy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swiggy.Test" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="restarent.*" />
+          <option name="PATTERN" value="swiggy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,7 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.restarent.Test" />
+        <item itemvalue="Application.swiggy.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ShoppingDemo" />
         <item itemvalue="Application.CardServiceTest" />
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712319073593</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hello">
+      <created>1712393156420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712393156420</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,18 +202,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/restarent/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/swiggy/RestaurantService.java</url>
           <line>6</line>
-          <properties class="restarent.Test" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/restarent/Service.java</url>
-          <line>6</line>
-          <properties class="restarent.Service" method="getService">
+          <properties class="swiggy.RestaurantService" method="getRestarent">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

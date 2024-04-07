@@ -1,17 +1,17 @@
-package restarent;
+package swiggy;
 
 import java.util.List;
 
-public class Restarent {
-    public List<RestarentDetails> restarentDetails;
+public class Restaurant {
+    public List<RestaurantDetails> restarentDetails;
 
-    public List<Dishes> deeshesList;
+    public List<Dishe> dishesList;
 
     @Override
     public String toString() {
         return "Restarent{" +
                 "restarentDetails=" + restarentDetails +
-                ", deeshesList=" + deeshesList +
+                ", deeshesList=" + dishesList +
                 '}';
     }
 }
