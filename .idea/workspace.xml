@@ -5,15 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d962b072-048c-47fb-b54e-93bfa83711ee" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/swiggy/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Fuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cardemo/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectiondemo/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectiondemo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectiondemo/PredicateStatusDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectiondemo/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creditcard/Pagenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalshashcode/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalshashcode/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalshashcode/EqualsHashCodeDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalshashcode/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalshashcode/SetDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/BedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Gas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Hall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/HomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Sofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeDemo/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagenation/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagenation/Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagenation/PaginationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagenation/PaginationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/Ratings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/RestaurantResponce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/RestaurentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/SwiggyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggyApplication/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/DryPrincipalYTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/MapDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/Voter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticketbooking/VoterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voting/Voter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voting/VoterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/Dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Dishe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/Restarent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/RestarentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/RestaurantDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/RestaurantService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/restarent/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shopping/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swiggy/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swiggy/RestaurantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/RestaurantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swiggy/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swiggy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swiggy/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +100,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.swiggy.Test">
-    <configuration name="AccountServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="accountcreation.AccountServiceTest" />
+  <component name="RunManager" selected="Application.MapDemo">
+    <configuration name="DryPrincipalYTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ticketbooking.DryPrincipalYTest" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="accountcreation.*" />
+          <option name="PATTERN" value="ticketbooking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creditcard.CardServiceTest" />
+    <configuration name="EqualsHashCodeDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalshashcode.EqualsHashCodeDemoTest" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shoppingdemo.*" />
+          <option name="PATTERN" value="equalshashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shoppingdemo.ShoppingDemo" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalshashcode.MapDemo" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shoppingdemo.*" />
+          <option name="PATTERN" value="equalshashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shopping.Test" />
+    <configuration name="SetDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalshashcode.SetDemoTest" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shopping.*" />
+          <option name="PATTERN" value="equalshashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swiggy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swiggy.Test" />
+    <configuration name="VoterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ticketbooking.VoterTest" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swiggy.*" />
+          <option name="PATTERN" value="ticketbooking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.swiggy.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ShoppingDemo" />
-        <item itemvalue="Application.CardServiceTest" />
-        <item itemvalue="Application.AccountServiceTest" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.EqualsHashCodeDemoTest" />
+        <item itemvalue="Application.SetDemoTest" />
+        <item itemvalue="Application.VoterTest" />
+        <item itemvalue="Application.DryPrincipalYTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712393156420</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello">
+      <created>1712464150870</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464150870</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,15 +257,35 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/swiggy/RestaurantService.java</url>
-          <line>6</line>
-          <properties class="swiggy.RestaurantService" method="getRestarent">
+          <url>file://$PROJECT_DIR$/src/equalshashcode/EqualsHashCodeDemoTest.java</url>
+          <line>3</line>
+          <properties class="equalshashcode.EqualsHashCodeDemoTest" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/equalshashcode/MapDemo.java</url>
+          <line>5</line>
+          <properties class="equalshashcode.MapDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/collectiondemo/PredicateStatusDemoTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="dataService.getNames" />
+        <watch expression="dataService.getNames" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

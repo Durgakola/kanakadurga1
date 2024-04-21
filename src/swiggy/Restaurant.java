@@ -1,5 +1,6 @@
 package swiggy;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Restaurant {
@@ -9,9 +10,9 @@ public class Restaurant {
 
     @Override
     public String toString() {
-        return "Restarent{" +
+        return "Restaurant{" +
                 "restarentDetails=" + restarentDetails +
-                ", deeshesList=" + dishesList +
+                ", dishesList=" + dishesList +
                 '}';
     }
 }

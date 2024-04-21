@@ -28,8 +28,6 @@ public class RestaurantService {
         restarentDetails.address=address;
 
 
-
-
         Dishe dishe1=new Dishe();
         dishe1.name="biryani";
         dishe1.price=350;
