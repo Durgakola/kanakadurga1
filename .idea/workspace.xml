@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d962b072-048c-47fb-b54e-93bfa83711ee" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/AccountDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/StreemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreemsDemoTest/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/FunctionDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/DishService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/RestaurantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swiggylatestdemo/Swiggy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/education/Certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/education/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/education/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/election/Constituency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/election/ConstituencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/election/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/election/ElectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/election/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/family/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/family/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/family/TreeDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice123/CustomerName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticket/Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticket/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ticket/TicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +59,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FunctionDemoTest">
-    <configuration name="EqualsHashCodeDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalshashcode.EqualsHashCodeDemoTest" />
+  <component name="RunManager" selected="Application.ConstituencyTest">
+    <configuration name="ConstituencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="election.ConstituencyTest" />
       <module name="kanakadurga1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalshashcode.*" />
+          <option name="PATTERN" value="election.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalshashcode.SetDemoTest" />
-      <module name="kanakadurga1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="equalshashcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StreemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreemsDemoTest.StreemDemo" />
       <module name="kanakadurga1" />
@@ -126,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="education.StudentTest" />
+      <module name="kanakadurga1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="education.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstituencyTest" />
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.FunctionDemoTest" />
         <item itemvalue="Application.StreemDemo" />
         <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.EqualsHashCodeDemoTest" />
-        <item itemvalue="Application.SetDemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713672455251</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hello">
+      <created>1714725299397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714725299398</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
