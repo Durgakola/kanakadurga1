@@ -4,9 +4,10 @@ import java.util.Date;
 
 public class Ticket {
 
-   String name;
-   Date time;
-   Row[] row;
+  public String name;
+  public Date time;
+  public Row[] row;
+  public int noOfSeats;
 
 
 

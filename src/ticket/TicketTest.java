@@ -4,7 +4,7 @@ public class TicketTest {
 
     public static void main(String[] args) {
 
-        Row row1 = new Row();
+        TicketService ticketService=new TicketService();
 
 
 
